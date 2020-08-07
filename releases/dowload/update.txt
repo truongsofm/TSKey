@@ -1,1 +1,2 @@
 update
+https://github.com/truongsofm/TSKey/raw/master/releases/dowload/TSKey%s-Windows.zip
